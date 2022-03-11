@@ -1,11 +1,4 @@
----
-layout: post
-title: "৫ মিনিটেই পর্যায় সারণির নাড়িভুঁড়ি ।"
-date: 2019-04-19
-excerpt: "গল্পে গল্পে পর্যায় সারণি"
-tags: [sample post, readability, test]
-comments: true
----
+
 ![periodic table](http://3gicrq41iz1925z0km3wz1tu.wpengine.netdna-cdn.com/wp-content/uploads/2017/07/steam.png)
 
 আমরা যারা বিজ্ঞানের শিক্ষার্থী, তারা অবশ্যই "পর্যায় সারণি " নামের একটি টেবিল এর নাম জানি। রসায়ন পড়ার জন্য এটি অত্যন্ত গুরুত্বপূর্ণ একটি উপাদান।
